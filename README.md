@@ -19,5 +19,10 @@ Noted that Rock dominated U.S. sales (53.38%) and Van Halen was the top artist
 Visualization & Business Recommendations:
 Built charts showing sales distribution, churned customers, and genre co-purchase patterns
 
+## Project Insights
+Rock is the top-selling genre, contributing over 53% of total sales in the USA.
+Van Halen emerged as the highest-selling artist across all regions.
+High customer churn identified in key cities — suggests need for retention and loyalty campaigns.
+
 ## Conclusion 
 By strategically focusing on high-engagement markets, tailoring genre promotions to regional preferences, expanding through local partnerships, and leveraging data-driven personalization, we can effectively boost global music sales. Targeted digital marketing will further enhance audience reach, ensuring sustained growth across diverse markets worldwide.
